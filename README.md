@@ -245,8 +245,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/Abishai95141/nn-classification/assets/139335314/37612389-5862-4413-8c80-3e7b449c61c3)
-
+![image](https://github.com/Abishai95141/nn-classification/assets/139335314/9735c712-4f32-4caa-88bf-0075047ff145)
 ### Classification Report
 ![image](https://github.com/Abishai95141/nn-classification/assets/139335314/553965cd-6e8d-450a-b382-3ef3836303dc)
 ### Confusion Matrix
